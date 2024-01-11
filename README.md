@@ -5,7 +5,7 @@ Tengo 21 años y estoy estudiando la tecnicatura de Desarrollo de Software, vivo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/noé-alaniz-a043742a4) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/no%C3%A9-alaniz-a043742a4/) <br>
 [![Email](https://img.shields.io/badge/matiaz1909@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:matiaz1909@gmail.com)
 
 # 💻 Tech Stack:
